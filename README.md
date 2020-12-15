@@ -12,13 +12,12 @@ We work together, develop ideas, and stay in touch on the [ECN Slack](https://bu
 ### Collaborate on building modules and workflows
 We are always looking to grow our team of contributors and value community feedback.  Join slack or send an email to any members of ECN Best Practices to get connected.  Please leave feedback requests and discussion in our [Project Issues tracker](https://github.com/EntCollNet/BestPractices/issues).
 
-## BugFlow Modules
+## ECN Best Practices Modules
 The primary output of ECN Best Practices will be outputs to the SPNHC Best Practices Wiki with content for entomological collections. They are actively being developed within this repository, and are available here:
-### [Current BugFlow Modules](pages/)
+### [Current Best Practices](pages/)
 
 To see issues and tasks still pending, please see the github repository issues located here:
-[BugFlow Issues](https://github.com/EntCollNet/BugFlow/issues)
-
+[ECN Best Practices Issues](https://github.com/EntCollNet/BestPractices/issues)
 
 ## Exemplar best practices
 As the best practices are developed, examples of practices will be given here.
